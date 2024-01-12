@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916307492086",
+    "project_id": "saylani-website-aadf0",
+    "storage_bucket": "saylani-website-aadf0.appspot.com",
+    "firebase_url":"https://saylani-website-aadf0-default-rtdb.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916307492086:android:d3eba20ff9b1d3103dc0d7",
+        "android_client_info": {
+          "package_name": "com.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916307492086-dtndr6ggacanlbllhpraeevl46nvgdr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hackathon",
+            "certificate_hash": "b707c1986e88edabd3784194a1665d1879d709d1"
+          }
+        },
+        {
+          "client_id": "916307492086-k0s6608r0of6dcsdkn194qi9qra03ppu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4bAc_myaDG1kEeecYsBEP1VABshdZ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916307492086-enicdjfr4ctcaaqsj26e4qrdncn7m2c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
